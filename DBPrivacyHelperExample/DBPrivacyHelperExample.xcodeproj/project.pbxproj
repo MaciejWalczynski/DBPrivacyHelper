@@ -72,6 +72,7 @@
 		B5C9AE611A3B46F200082D01 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/DBPrivacyHelperLocalizable.strings"; sourceTree = "<group>"; };
 		D0FEAB5AE73F6F6808F8FF69 /* Pods-DBPrivacyHelperExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DBPrivacyHelperExampleTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DBPrivacyHelperExampleTests/Pods-DBPrivacyHelperExampleTests.release.xcconfig"; sourceTree = "<group>"; };
 		D53EF3130F07107F2AA7B2A9 /* libPods-DBPrivacyHelperExampleTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DBPrivacyHelperExampleTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D90E99861BBBCB0E00A1FC02 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/DBPrivacyHelperLocalizable.strings; sourceTree = "<group>"; };
 		EBF7EF601A66DA87004C5784 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/DBPrivacyHelperLocalizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -274,6 +275,7 @@
 				"zh-Hant",
 				ko,
 				"pt-PT",
+				sv,
 			);
 			mainGroup = 9AE88CED1A10C4AE00086242;
 			productRefGroup = 9AE88CF71A10C4AE00086242 /* Products */;
@@ -401,6 +403,7 @@
 				B5C9AE611A3B46F200082D01 /* zh-Hant */,
 				2D8897741A5A1F5200AE811F /* ko */,
 				EBF7EF601A66DA87004C5784 /* pt-PT */,
+				D90E99861BBBCB0E00A1FC02 /* sv */,
 			);
 			name = DBPrivacyHelperLocalizable.strings;
 			sourceTree = "<group>";
